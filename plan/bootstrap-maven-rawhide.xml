@@ -81,7 +81,6 @@
     <component>jdom</component>
     <component>jdom2</component>
     <component>jflex</component>
-    <component>jsoup</component>
     <component>jsr-305</component>
     <component>junit</component>
     <component>junit5</component>
@@ -192,7 +191,6 @@
     <component>jdom</component>
     <component>jdom2</component>
     <component>jflex</component>
-    <component>jsoup</component>
     <component>jsr-305</component>
     <component>junit</component>
     <component>junit5</component>

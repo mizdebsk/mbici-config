@@ -201,7 +201,6 @@
   <package>mvn(org.hamcrest:hamcrest-core)</package>
   <package>mvn(org.hamcrest:hamcrest-library)</package>
   <package>mvn(org.jdom:jdom2)</package>
-  <package>mvn(org.jsoup:jsoup)</package>
   <package>mvn(org.junit.jupiter:junit-jupiter)</package>
   <package>mvn(org.junit.jupiter:junit-jupiter-api)</package>
   <package>mvn(org.junit.jupiter:junit-jupiter-engine)</package>
