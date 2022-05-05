@@ -65,6 +65,7 @@
     <component>cdi-api</component>
     <component>cglib</component>
     <component>easymock</component>
+    <component>extra-enforcer-rules</component>
     <component>felix-parent</component>
     <component>felix-utils</component>
     <component>fusesource-pom</component>
@@ -175,6 +176,7 @@
     <component>cdi-api</component>
     <component>cglib</component>
     <component>easymock</component>
+    <component>extra-enforcer-rules</component>
     <component>felix-parent</component>
     <component>felix-utils</component>
     <component>fusesource-pom</component>
