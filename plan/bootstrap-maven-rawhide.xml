@@ -20,16 +20,9 @@
     <value>1</value>
   </macro>
   <phase>
-    <name>b1</name>
-    <macro>
-      <name>_with_bootstrap</name>
-      <value>1</value>
-    </macro>
-    <component>javapackages-tools</component>
-  </phase>
-  <phase>
     <name>b2</name>
     <component>javapackages-bootstrap</component>
+    <component>javapackages-tools</component>
   </phase>
   <phase>
     <name>b3</name>
@@ -143,10 +136,6 @@
     <component>xmlunit</component>
     <component>xmvn</component>
     <component>xz-java</component>
-  </phase>
-  <phase>
-    <name>nb1</name>
-    <component>javapackages-tools</component>
   </phase>
   <phase>
     <name>nb2</name>
