@@ -14,7 +14,6 @@
       <value>1</value>
     </macro>
     <component>javapackages-tools</component>
-    <component>byaccj</component>
   </phase>
   <phase>
     <name>b2</name>

@@ -6,6 +6,7 @@
   <package>shadow-utils</package>
   <package>rpm-build</package>
   <package>glibc-minimal-langpack</package>
+  <package>byaccj</package>
   <package>which</package>
   <package>gcc</package>
   <package>gcc-c++</package>
@@ -34,7 +35,6 @@
   <package>asciidoc</package>
   <package>bcel</package>
   <package>beust-jcommander</package>
-  <package>byaccj</package>
   <package>cglib</package>
   <package>coreutils</package>
   <package>easymock</package>
