@@ -19,7 +19,6 @@
   <package>python3-devel</package>
   <package>python3-lxml</package>
   <package>python3-pytest</package>
-  <package>python3-pytest-cov</package>
   <package>python3-setuptools</package>
   <package>procps-ng</package>
   <package>publicsuffix-list</package>
