@@ -17,10 +17,6 @@
   </phase>
   <phase>
     <name>b2</name>
-    <macro>
-      <name>_with_bootstrap</name>
-      <value>1</value>
-    </macro>
     <component>javapackages-bootstrap</component>
   </phase>
   <phase>
