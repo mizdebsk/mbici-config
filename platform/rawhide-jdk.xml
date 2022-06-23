@@ -25,4 +25,5 @@
   <package>publicsuffix-list</package>
   <package>asciidoc</package>
   <package>xmlto</package>
+  <package>lua</package>
 </platform>
