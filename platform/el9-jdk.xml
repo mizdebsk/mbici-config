@@ -1,16 +1,19 @@
 <platform>
   <repo>
     <name>BaseOS</name>
-    <url>https://odcs.stream.centos.org/production/latest-CentOS-Stream/compose/BaseOS/x86_64/os/</url>
+    <url>https://ftp.icm.edu.pl/pub/Linux/dist/almalinux/9/BaseOS/x86_64/os/</url>
   </repo>
   <repo>
     <name>AppStream</name>
-    <url>https://odcs.stream.centos.org/production/latest-CentOS-Stream/compose/AppStream/x86_64/os/</url>
+    <url>https://ftp.icm.edu.pl/pub/Linux/dist/almalinux/9/AppStream/x86_64/os/</url>
+  </repo>
+  <repo>
+    <name>CRB</name>
+    <url>https://ftp.icm.edu.pl/pub/Linux/dist/almalinux/9/CRB/x86_64/os/</url>
   </repo>
   <package>shadow-utils</package>
   <package>rpm-build</package>
   <package>glibc-minimal-langpack</package>
-  <package>byaccj</package>
   <package>which</package>
   <package>gcc</package>
   <package>gcc-c++</package>
