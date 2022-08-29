@@ -32,6 +32,7 @@
     </macro>
     <component>maven-shared-utils</component>
     <component>ant</component>
+    <component>aopalliance</component>
     <component>apache-commons-beanutils</component>
     <component>apache-commons-cli</component>
     <component>apache-commons-codec</component>
@@ -139,6 +140,7 @@
   </phase>
   <phase>
     <name>nb2</name>
+    <component>aopalliance</component>
     <component>apache-commons-beanutils</component>
     <component>apache-commons-cli</component>
     <component>apache-commons-codec</component>
