@@ -19,6 +19,10 @@
     <name>_without_maven_resolver_extra_modules</name>
     <value>1</value>
   </macro>
+  <macro>
+    <name>_with_ant_minimal</name>
+    <value>1</value>
+  </macro>
   <phase>
     <name>b2</name>
     <component>javapackages-bootstrap</component>
@@ -140,6 +144,7 @@
   </phase>
   <phase>
     <name>nb2</name>
+    <component>ant</component>
     <component>aopalliance</component>
     <component>apache-commons-beanutils</component>
     <component>apache-commons-cli</component>
@@ -252,36 +257,5 @@
   <phase>
     <name>nb4</name>
     <component>xmvn</component>
-  </phase>
-  <phase>
-    <name>a1</name>
-    <component>antlr</component>
-    <component>apache-commons-net</component>
-    <component>bcel</component>
-    <component>jakarta-activation</component>
-    <component>jakarta-oro</component>
-    <component>jdepend</component>
-    <component>jzlib</component>
-    <component>regexp</component>
-    <component>xml-commons-apis</component>
-    <component>xml-commons-resolver</component>
-  </phase>
-  <phase>
-    <name>a2</name>
-    <component>jakarta-mail</component>
-    <component>jsch</component>
-    <component>xerces-j2</component>
-  </phase>
-  <phase>
-    <name>a3</name>
-    <component>xalan-j2</component>
-  </phase>
-  <phase>
-    <name>a4</name>
-    <component>bsf</component>
-  </phase>
-  <phase>
-    <name>a5</name>
-    <component>ant</component>
   </phase>
 </plan>
