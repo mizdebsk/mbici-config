@@ -187,6 +187,7 @@
     <component>jsr-305</component>
     <component>junit</component>
     <component>junit5</component>
+    <component>maven</component>
     <component>maven-antrun-plugin</component>
     <component>maven-archiver</component>
     <component>maven-artifact-transfer</component>
@@ -249,10 +250,6 @@
     <component>xbean</component>
     <component>xmlunit</component>
     <component>xz-java</component>
-  </phase>
-  <phase>
-    <name>nb3</name>
-    <component>maven</component>
   </phase>
   <phase>
     <name>nb4</name>
