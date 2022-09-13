@@ -249,10 +249,7 @@
     <component>velocity</component>
     <component>xbean</component>
     <component>xmlunit</component>
-    <component>xz-java</component>
-  </phase>
-  <phase>
-    <name>nb4</name>
     <component>xmvn</component>
+    <component>xz-java</component>
   </phase>
 </plan>
