@@ -12,10 +12,6 @@
     <value>1</value>
   </macro>
   <macro>
-    <name>_without_bnd_maven_plugin</name>
-    <value>1</value>
-  </macro>
-  <macro>
     <name>_without_maven_resolver_extra_modules</name>
     <value>1</value>
   </macro>
@@ -92,6 +88,7 @@
     <component>maven-file-management</component>
     <component>maven-filtering</component>
     <component>maven-jar-plugin</component>
+    <component>maven-mapping</component>
     <component>maven-parent</component>
     <component>maven-plugin-build-helper</component>
     <component>maven-plugin-bundle</component>
@@ -201,6 +198,7 @@
     <component>maven-file-management</component>
     <component>maven-filtering</component>
     <component>maven-jar-plugin</component>
+    <component>maven-mapping</component>
     <component>maven-parent</component>
     <component>maven-plugin-build-helper</component>
     <component>maven-plugin-bundle</component>
