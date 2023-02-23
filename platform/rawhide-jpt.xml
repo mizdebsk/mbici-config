@@ -44,6 +44,7 @@
   <package>java-17-openjdk-devel</package>
   <package>java-devel</package>
   <package>java_cup</package>
+  <package>javapackages-extra</package>
   <package>javapackages-generators</package>
   <package>javapackages-local</package>
   <package>jflex</package>
@@ -65,6 +66,7 @@
   <package>mvn(bsf:bsf)</package>
   <package>mvn(cglib:cglib)</package>
   <package>mvn(classworlds:classworlds)</package>
+  <package>mvn(codes.rafael.modulemaker:modulemaker-maven-plugin)</package>
   <package>mvn(com.beust:jcommander)</package>
   <package>mvn(com.google.code.findbugs:jsr305)</package>
   <package>mvn(com.google.guava:guava)</package>
