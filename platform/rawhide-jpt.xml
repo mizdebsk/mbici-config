@@ -27,8 +27,8 @@
   <package>xmlto</package>
   <package>lua</package>
 
-  <package>ant</package>
   <package>ant-junit</package>
+  <package>ant</package>
   <package>apache-commons-compress</package>
   <package>apache-commons-logging</package>
   <package>apache-ivy</package>
@@ -39,25 +39,25 @@
   <package>cglib</package>
   <package>coreutils</package>
   <package>easymock</package>
-  <package>gcc</package>
   <package>gcc-c++</package>
+  <package>gcc</package>
   <package>java-17-openjdk-devel</package>
   <package>java-devel</package>
   <package>java_cup</package>
   <package>javapackages-generators</package>
   <package>javapackages-local</package>
   <package>jflex</package>
-  <package>junit</package>
   <package>junit5</package>
+  <package>junit</package>
   <package>make</package>
-  <package>maven</package>
   <package>maven-assembly-plugin</package>
   <package>maven-dependency-plugin</package>
   <package>maven-invoker</package>
-  <package>maven-local</package>
   <package>maven-local-openjdk8</package>
+  <package>maven-local</package>
   <package>maven-plugin-build-helper</package>
   <package>maven-plugin-plugin</package>
+  <package>maven</package>
   <package>modello</package>
   <package>mvn(antlr:antlr)</package>
   <package>mvn(bcel:bcel)</package>
