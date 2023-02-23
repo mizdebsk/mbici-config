@@ -170,6 +170,7 @@
   <package>mvn(org.assertj:assertj-core)</package>
   <package>mvn(org.codehaus.modello:modello-maven-plugin)</package>
   <package>mvn(org.codehaus.mojo:build-helper-maven-plugin)</package>
+  <package>mvn(org.codehaus.mojo:extra-enforcer-rules)</package>
   <package>mvn(org.codehaus.mojo:mojo-parent:pom:)</package>
   <package>mvn(org.codehaus.plexus:plexus-archiver)</package>
   <package>mvn(org.codehaus.plexus:plexus-classworlds)</package>
