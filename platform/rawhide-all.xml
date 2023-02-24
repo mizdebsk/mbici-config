@@ -6,67 +6,39 @@
   <package>shadow-utils</package>
   <package>rpm-build</package>
   <package>glibc-minimal-langpack</package>
-  <package>byaccj</package>
-  <package>which</package>
-  <package>gcc</package>
-  <package>gcc-c++</package>
-  <package>make</package>
-  <package>java-17-openjdk-devel</package>
-  <package>java-11-openjdk-devel</package>
-  <package>java-1.8.0-openjdk-devel</package>
-  <package>bash</package>
-  <package>coreutils</package>
-  <package>findutils</package>
-  <package>python3-devel</package>
-  <package>python3-lxml</package>
-  <package>python3-pytest</package>
-  <package>python3-setuptools</package>
-  <package>procps-ng</package>
-  <package>publicsuffix-list</package>
-  <package>asciidoc</package>
-  <package>xmlto</package>
-  <package>lua</package>
 
   <package>ant-junit</package>
   <package>ant</package>
-  <package>apache-commons-compress</package>
   <package>apache-commons-logging</package>
-  <package>apache-ivy</package>
   <package>apache-parent</package>
   <package>asciidoc</package>
   <package>bcel</package>
-  <package>beust-jcommander</package>
-  <package>cglib</package>
+  <package>byaccj</package>
   <package>coreutils</package>
-  <package>easymock</package>
   <package>gcc-c++</package>
   <package>gcc</package>
+  <package>java-1.8.0-openjdk-devel</package>
+  <package>java-11-openjdk-devel</package>
   <package>java-17-openjdk-devel</package>
   <package>java-devel</package>
   <package>java_cup</package>
+  <package>javapackages-bootstrap-openjdk8</package>
+  <package>javapackages-bootstrap</package>
   <package>javapackages-extra</package>
-  <package>javapackages-generators</package>
   <package>javapackages-local</package>
   <package>jflex</package>
   <package>junit5</package>
-  <package>junit</package>
+  <package>lua</package>
   <package>make</package>
-  <package>maven-assembly-plugin</package>
-  <package>maven-dependency-plugin</package>
-  <package>maven-invoker</package>
   <package>maven-local-openjdk8</package>
   <package>maven-local</package>
-  <package>maven-plugin-build-helper</package>
-  <package>maven-plugin-plugin</package>
   <package>maven</package>
-  <package>modello</package>
   <package>mvn(antlr:antlr)</package>
   <package>mvn(bcel:bcel)</package>
+  <package>mvn(biz.aQute.bnd:biz.aQute.bnd)</package>
   <package>mvn(biz.aQute.bnd:biz.aQute.bndlib)</package>
   <package>mvn(bsf:bsf)</package>
   <package>mvn(cglib:cglib)</package>
-  <package>mvn(classworlds:classworlds)</package>
-  <package>mvn(codes.rafael.modulemaker:modulemaker-maven-plugin)</package>
   <package>mvn(com.beust:jcommander)</package>
   <package>mvn(com.google.code.findbugs:jsr305)</package>
   <package>mvn(com.google.guava:guava)</package>
@@ -75,6 +47,10 @@
   <package>mvn(com.jcraft:jsch)</package>
   <package>mvn(com.jcraft:jzlib)</package>
   <package>mvn(com.sun.activation:jakarta.activation)</package>
+  <package>mvn(com.sun.istack:istack-commons-runtime)</package>
+  <package>mvn(com.sun.istack:istack-commons-tools)</package>
+  <package>mvn(com.sun.xml.dtd-parser:dtd-parser)</package>
+  <package>mvn(com.sun.xml.fastinfoset:FastInfoset)</package>
   <package>mvn(com.thoughtworks.qdox:qdox)</package>
   <package>mvn(com.univocity:univocity-parsers)</package>
   <package>mvn(commons-beanutils:commons-beanutils)</package>
@@ -86,10 +62,11 @@
   <package>mvn(commons-logging:commons-logging)</package>
   <package>mvn(commons-logging:commons-logging-api)</package>
   <package>mvn(commons-net:commons-net)</package>
+  <package>mvn(jakarta.activation:jakarta.activation-api)</package>
   <package>mvn(jakarta.inject:jakarta.inject-api)</package>
+  <package>mvn(jakarta.xml.bind:jakarta.xml.bind-api)</package>
   <package>mvn(java_cup:java_cup)</package>
   <package>mvn(javax.annotation:javax.annotation-api)</package>
-  <package>mvn(javax.annotation:jsr250-api)</package>
   <package>mvn(javax.enterprise:cdi-api)</package>
   <package>mvn(javax.inject:javax.inject)</package>
   <package>mvn(javax.mail:mail)</package>
@@ -102,6 +79,7 @@
   <package>mvn(net.bytebuddy:byte-buddy-agent)</package>
   <package>mvn(net.bytebuddy:byte-buddy-dep)</package>
   <package>mvn(org.apache.ant:ant)</package>
+  <package>mvn(org.apache.ant:ant-junit)</package>
   <package>mvn(org.apache.commons:commons-compress)</package>
   <package>mvn(org.apache.commons:commons-lang3)</package>
   <package>mvn(org.apache.commons:commons-parent:pom:)</package>
@@ -111,9 +89,7 @@
   <package>mvn(org.apache.httpcomponents:httpclient)</package>
   <package>mvn(org.apache.httpcomponents:httpcomponents-parent:pom:)</package>
   <package>mvn(org.apache.httpcomponents:httpcore)</package>
-  <package>mvn(org.apache.ivy:ivy)</package>
   <package>mvn(org.apache.maven.enforcer:enforcer-api)</package>
-  <package>mvn(org.apache.maven.enforcer:enforcer-rules)</package>
   <package>mvn(org.apache.maven.plugin-testing:maven-plugin-testing-harness)</package>
   <package>mvn(org.apache.maven.plugin-tools:maven-plugin-annotations)</package>
   <package>mvn(org.apache.maven.plugins:maven-antrun-plugin)</package>
@@ -144,7 +120,6 @@
   <package>mvn(org.apache.maven.shared:maven-shared-io)</package>
   <package>mvn(org.apache.maven.shared:maven-shared-utils)</package>
   <package>mvn(org.apache.maven.shared:maven-verifier)</package>
-  <package>mvn(org.apache.maven.surefire:maven-surefire-common)</package>
   <package>mvn(org.apache.maven.surefire:surefire-junit-platform)</package>
   <package>mvn(org.apache.maven.surefire:surefire-junit4)</package>
   <package>mvn(org.apache.maven.surefire:surefire-testng)</package>
@@ -173,6 +148,7 @@
   <package>mvn(org.codehaus.mojo:extra-enforcer-rules)</package>
   <package>mvn(org.codehaus.mojo:mojo-parent:pom:)</package>
   <package>mvn(org.codehaus.plexus:plexus-archiver)</package>
+  <package>mvn(org.codehaus.plexus:plexus-cipher)</package>
   <package>mvn(org.codehaus.plexus:plexus-classworlds)</package>
   <package>mvn(org.codehaus.plexus:plexus-compiler-api)</package>
   <package>mvn(org.codehaus.plexus:plexus-compiler-javac)</package>
@@ -185,10 +161,12 @@
   <package>mvn(org.codehaus.plexus:plexus-io)</package>
   <package>mvn(org.codehaus.plexus:plexus-java)</package>
   <package>mvn(org.codehaus.plexus:plexus-resources)</package>
+  <package>mvn(org.codehaus.plexus:plexus-sec-dispatcher)</package>
   <package>mvn(org.codehaus.plexus:plexus-utils)</package>
   <package>mvn(org.codehaus.plexus:plexus:pom:)</package>
   <package>mvn(org.easymock:easymock)</package>
   <package>mvn(org.eclipse.aether:aether-api)</package>
+  <package>mvn(org.eclipse.aether:aether-connector-wagon)</package>
   <package>mvn(org.eclipse.aether:aether-impl)</package>
   <package>mvn(org.eclipse.aether:aether-util)</package>
   <package>mvn(org.eclipse.jetty:jetty-http)</package>
@@ -197,7 +175,6 @@
   <package>mvn(org.eclipse.sisu:org.eclipse.sisu.inject)</package>
   <package>mvn(org.eclipse.sisu:org.eclipse.sisu.plexus)</package>
   <package>mvn(org.eclipse.sisu:sisu-maven-plugin)</package>
-  <package>mvn(org.fedoraproject.xmvn:xmvn-api)</package>
   <package>mvn(org.fusesource.jansi:jansi)</package>
   <package>mvn(org.fusesource:fusesource-pom:pom:)</package>
   <package>mvn(org.hamcrest:hamcrest)</package>
@@ -209,6 +186,8 @@
   <package>mvn(org.junit.jupiter:junit-jupiter-engine)</package>
   <package>mvn(org.junit.platform:junit-platform-launcher)</package>
   <package>mvn(org.junit.vintage:junit-vintage-engine)</package>
+  <package>mvn(org.junit:junit-bom:pom:)</package>
+  <package>mvn(org.jvnet.staxex:stax-ex)</package>
   <package>mvn(org.mockito:mockito-core)</package>
   <package>mvn(org.objenesis:objenesis)</package>
   <package>mvn(org.opentest4j:opentest4j)</package>
@@ -228,9 +207,7 @@
   <package>mvn(org.sonatype.plexus:plexus-build-api)</package>
   <package>mvn(org.sonatype.plexus:plexus-build-api::tests:)</package>
   <package>mvn(org.sonatype.plexus:plexus-cipher)</package>
-  <package>mvn(org.sonatype.plexus:plexus-sec-dispatcher)</package>
   <package>mvn(org.sonatype.plugins:munge-maven-plugin)</package>
-  <package>mvn(org.sonatype.plugins:sisu-maven-plugin)</package>
   <package>mvn(org.sonatype.sisu:sisu-guice::no_aop:)</package>
   <package>mvn(org.testng:testng)</package>
   <package>mvn(org.testng:testng::jdk15:)</package>
@@ -242,17 +219,12 @@
   <package>mvn(regexp:regexp)</package>
   <package>mvn(xalan:xalan)</package>
   <package>mvn(xml-resolver:xml-resolver)</package>
-  <package>objectweb-asm</package>
-  <package>plexus-containers-component-annotations</package>
-  <package>plexus-containers-component-metadata</package>
-  <package>plexus-containers-container-default</package>
   <package>publicsuffix-list</package>
   <package>python3-devel</package>
   <package>python3-lxml</package>
   <package>python3-pytest</package>
   <package>python3-setuptools</package>
   <package>regexp</package>
-  <package>scl-utils-build</package>
   <package>sed</package>
   <package>which</package>
   <package>xalan-j2</package>
@@ -260,6 +232,5 @@
   <package>xml-commons-apis</package>
   <package>xml-commons-resolver</package>
   <package>xmlto</package>
-  <package>xmlunit</package>
   <package>zip</package>
 </platform>
