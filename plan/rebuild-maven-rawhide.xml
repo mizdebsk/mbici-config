@@ -23,6 +23,7 @@
     <name>p0</name>
     <component>ant</component>
     <component>antlr</component>
+    <component>aopalliance</component>
     <component>apache-commons-beanutils</component>
     <component>apache-commons-cli</component>
     <component>apache-commons-codec</component>
@@ -64,6 +65,7 @@
     <component>jakarta-servlet</component>
     <component>jansi</component>
     <component>java_cup</component>
+    <component>javapackages-bootstrap</component>
     <component>javapackages-tools</component>
     <component>jdepend</component>
     <component>jdom2</component>
@@ -87,6 +89,7 @@
     <component>maven-file-management</component>
     <component>maven-filtering</component>
     <component>maven-jar-plugin</component>
+    <component>maven-mapping</component>
     <component>maven-parent</component>
     <component>maven-plugin-build-helper</component>
     <component>maven-plugin-bundle</component>
