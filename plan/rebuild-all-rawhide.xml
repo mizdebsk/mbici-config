@@ -43,6 +43,7 @@
     <component>byte-buddy</component>
     <component>cdi-api</component>
     <component>cglib</component>
+    <component>disruptor</component>
     <component>easymock</component>
     <component>extra-enforcer-rules</component>
     <component>felix-parent</component>
@@ -70,6 +71,7 @@
     <component>jaxb-istack-commons</component>
     <component>jaxb-stax-ex</component>
     <component>jaxb</component>
+    <component>jctools</component>
     <component>jdepend</component>
     <component>jdom2</component>
     <component>jdom</component>
@@ -79,6 +81,7 @@
     <component>junit5</component>
     <component>junit</component>
     <component>jzlib</component>
+    <component>log4j</component>
     <component>maven-antrun-plugin</component>
     <component>maven-archiver</component>
     <component>maven-artifact-transfer</component>

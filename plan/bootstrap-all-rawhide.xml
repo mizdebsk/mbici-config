@@ -256,11 +256,13 @@
     <component>antlr</component>
     <component>apache-commons-net</component>
     <component>bcel</component>
+    <component>disruptor</component>
     <component>jakarta-activation</component>
     <component>jakarta-activation1</component>
     <component>jakarta-oro</component>
     <component>jaxb-dtd-parser</component>
     <component>jaxb-fi</component>
+    <component>jctools</component>
     <component>jdepend</component>
     <component>jzlib</component>
     <component>regexp</component>
@@ -278,6 +280,7 @@
   <phase>
     <name>a3</name>
     <component>jaxb-stax-ex</component>
+    <component>log4j</component>
     <component>xalan-j2</component>
   </phase>
   <phase>

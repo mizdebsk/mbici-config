@@ -41,13 +41,16 @@
   <package>mvn(com.beust:jcommander)</package>
   <package>mvn(com.google.code.findbugs:jsr305)</package>
   <package>mvn(com.google.guava:guava)</package>
+  <package>mvn(com.google.guava:guava-testlib)</package>
   <package>mvn(com.google.inject.extensions:guice-servlet)</package>
   <package>mvn(com.google.inject:guice::no_aop:)</package>
   <package>mvn(com.jcraft:jsch)</package>
   <package>mvn(com.jcraft:jzlib)</package>
+  <package>mvn(com.lmax:disruptor)</package>
   <package>mvn(com.sun.activation:jakarta.activation)</package>
   <package>mvn(com.sun.istack:istack-commons-runtime)</package>
   <package>mvn(com.sun.istack:istack-commons-tools)</package>
+  <package>mvn(com.sun.mail:javax.mail)</package>
   <package>mvn(com.sun.xml.dtd-parser:dtd-parser)</package>
   <package>mvn(com.sun.xml.fastinfoset:FastInfoset)</package>
   <package>mvn(com.thoughtworks.qdox:qdox)</package>
@@ -177,8 +180,10 @@
   <package>mvn(org.fusesource.jansi:jansi)</package>
   <package>mvn(org.fusesource:fusesource-pom:pom:)</package>
   <package>mvn(org.hamcrest:hamcrest)</package>
+  <package>mvn(org.hamcrest:hamcrest-all)</package>
   <package>mvn(org.hamcrest:hamcrest-core)</package>
   <package>mvn(org.hamcrest:hamcrest-library)</package>
+  <package>mvn(org.jctools:jctools-core)</package>
   <package>mvn(org.jdom:jdom2)</package>
   <package>mvn(org.junit.jupiter:junit-jupiter)</package>
   <package>mvn(org.junit.jupiter:junit-jupiter-api)</package>
