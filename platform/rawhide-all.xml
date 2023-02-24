@@ -18,7 +18,6 @@
   <package>gcc-c++</package>
   <package>gcc</package>
   <package>java-1.8.0-openjdk-devel</package>
-  <package>java-11-openjdk-devel</package>
   <package>java-17-openjdk-devel</package>
   <package>java-devel</package>
   <package>java_cup</package>

@@ -12,7 +12,6 @@
   <package>gcc-c++</package>
   <package>make</package>
   <package>java-17-openjdk-devel</package>
-  <package>java-11-openjdk-devel</package>
   <package>java-1.8.0-openjdk-devel</package>
   <package>bash</package>
   <package>coreutils</package>
