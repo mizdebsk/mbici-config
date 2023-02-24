@@ -12,10 +12,6 @@
     <value>1</value>
   </macro>
   <macro>
-    <name>_without_bnd_maven_plugin</name>
-    <value>1</value>
-  </macro>
-  <macro>
     <name>_without_maven_resolver_extra_modules</name>
     <value>1</value>
   </macro>
@@ -58,6 +54,7 @@
     <component>httpcomponents-client</component>
     <component>httpcomponents-core</component>
     <component>httpcomponents-project</component>
+    <component>jakarta-activation1</component>
     <component>jakarta-activation</component>
     <component>jakarta-annotations</component>
     <component>jakarta-mail</component>
@@ -67,6 +64,12 @@
     <component>java_cup</component>
     <component>javapackages-bootstrap</component>
     <component>javapackages-tools</component>
+    <component>jaxb-api</component>
+    <component>jaxb-dtd-parser</component>
+    <component>jaxb-fi</component>
+    <component>jaxb-istack-commons</component>
+    <component>jaxb-stax-ex</component>
+    <component>jaxb</component>
     <component>jdepend</component>
     <component>jdom2</component>
     <component>jdom</component>
