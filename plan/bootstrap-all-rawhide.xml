@@ -101,6 +101,7 @@
     <component>maven-wagon</component>
     <component>mockito</component>
     <component>modello</component>
+    <component>modulemaker-maven-plugin</component>
     <component>mojo-parent</component>
     <component>munge-maven-plugin</component>
     <component>objectweb-asm</component>
@@ -210,6 +211,7 @@
     <component>maven-wagon</component>
     <component>mockito</component>
     <component>modello</component>
+    <component>modulemaker-maven-plugin</component>
     <component>mojo-parent</component>
     <component>munge-maven-plugin</component>
     <component>objectweb-asm</component>
