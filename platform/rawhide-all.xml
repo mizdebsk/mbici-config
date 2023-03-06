@@ -28,6 +28,7 @@
   <package>jflex</package>
   <package>junit5</package>
   <package>lua</package>
+  <package>lujavrite</package>
   <package>make</package>
   <package>maven-local-openjdk8</package>
   <package>maven-local</package>
