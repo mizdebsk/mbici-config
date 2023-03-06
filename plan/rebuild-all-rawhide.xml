@@ -152,6 +152,7 @@
     <component>xml-commons-resolver</component>
     <component>xmlunit</component>
     <component>xmvn</component>
+    <component>xmvn-generator</component>
     <component>xz-java</component>
   </phase>
 </plan>
