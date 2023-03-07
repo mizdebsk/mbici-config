@@ -26,4 +26,5 @@
   <package>xmlto</package>
   <package>lua</package>
   <package>lujavrite</package>
+  <package>rpm-devel</package>
 </platform>
