@@ -50,6 +50,7 @@
     <component>assertj-core</component>
     <component>atinject</component>
     <component>beust-jcommander</component>
+    <component>build-helper-maven-plugin</component>
     <component>byte-buddy</component>
     <component>cdi-api</component>
     <component>cglib</component>
@@ -79,6 +80,7 @@
     <component>maven-archiver</component>
     <component>maven-artifact-transfer</component>
     <component>maven-assembly-plugin</component>
+    <component>maven-bundle-plugin</component>
     <component>maven-common-artifact-filters</component>
     <component>maven-compiler-plugin</component>
     <component>maven-dependency-analyzer</component>
@@ -90,8 +92,6 @@
     <component>maven-jar-plugin</component>
     <component>maven-mapping</component>
     <component>maven-parent</component>
-    <component>maven-plugin-build-helper</component>
-    <component>maven-plugin-bundle</component>
     <component>maven-plugin-testing</component>
     <component>maven-plugin-tools</component>
     <component>maven-remote-resources-plugin</component>
@@ -162,6 +162,7 @@
     <component>assertj-core</component>
     <component>atinject</component>
     <component>beust-jcommander</component>
+    <component>build-helper-maven-plugin</component>
     <component>byte-buddy</component>
     <component>cdi-api</component>
     <component>cglib</component>
@@ -191,6 +192,7 @@
     <component>maven-archiver</component>
     <component>maven-artifact-transfer</component>
     <component>maven-assembly-plugin</component>
+    <component>maven-bundle-plugin</component>
     <component>maven-common-artifact-filters</component>
     <component>maven-compiler-plugin</component>
     <component>maven-dependency-analyzer</component>
@@ -202,8 +204,6 @@
     <component>maven-jar-plugin</component>
     <component>maven-mapping</component>
     <component>maven-parent</component>
-    <component>maven-plugin-build-helper</component>
-    <component>maven-plugin-bundle</component>
     <component>maven-plugin-testing</component>
     <component>maven-plugin-tools</component>
     <component>maven-remote-resources-plugin</component>
