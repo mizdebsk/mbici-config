@@ -8,6 +8,10 @@
     <value>mbs.kjnet.xyz</value>
   </macro>
   <macro>
+    <name>_with_xmvn_generator</name>
+    <value>1</value>
+  </macro>
+  <macro>
     <name>_without_ivy</name>
     <value>1</value>
   </macro>
