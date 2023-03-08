@@ -27,4 +27,5 @@
   <package>lua</package>
   <package>lujavrite</package>
   <package>rpm-devel</package>
+  <package>jurand</package>
 </platform>
