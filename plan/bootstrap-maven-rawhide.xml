@@ -16,10 +16,6 @@
     <value>1</value>
   </macro>
   <macro>
-    <name>_without_maven_resolver_extra_modules</name>
-    <value>1</value>
-  </macro>
-  <macro>
     <name>_with_ant_minimal</name>
     <value>1</value>
   </macro>
