@@ -15,6 +15,10 @@
     <name>_without_ivy</name>
     <value>1</value>
   </macro>
+  <macro>
+    <name>_without_bnd_maven_plugin</name>
+    <value>1</value>
+  </macro>
   <phase>
     <name>p0</name>
     <component>ant</component>

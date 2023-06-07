@@ -16,6 +16,10 @@
     <value>1</value>
   </macro>
   <macro>
+    <name>_without_bnd_maven_plugin</name>
+    <value>1</value>
+  </macro>
+  <macro>
     <name>_with_ant_minimal</name>
     <value>1</value>
   </macro>
