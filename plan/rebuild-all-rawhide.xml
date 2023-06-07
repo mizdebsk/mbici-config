@@ -97,7 +97,6 @@
     <component>maven-file-management</component>
     <component>maven-filtering</component>
     <component>maven-jar-plugin</component>
-    <component>maven-mapping</component>
     <component>maven-parent</component>
     <component>maven-plugin-testing</component>
     <component>maven-plugin-tools</component>

@@ -116,7 +116,6 @@
   <package>mvn(org.apache.maven.shared:maven-dependency-analyzer)</package>
   <package>mvn(org.apache.maven.shared:maven-dependency-tree)</package>
   <package>mvn(org.apache.maven.shared:maven-filtering)</package>
-  <package>mvn(org.apache.maven.shared:maven-mapping)</package>
   <package>mvn(org.apache.maven.shared:maven-plugin-testing-harness)</package>
   <package>mvn(org.apache.maven.shared:maven-shared-components:pom:)</package>
   <package>mvn(org.apache.maven.shared:maven-shared-incremental)</package>
