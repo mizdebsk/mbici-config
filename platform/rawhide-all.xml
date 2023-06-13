@@ -44,7 +44,7 @@
   <package>mvn(com.google.guava:guava)</package>
   <package>mvn(com.google.guava:guava-testlib)</package>
   <package>mvn(com.google.inject.extensions:guice-servlet)</package>
-  <package>mvn(com.google.inject:guice::no_aop:)</package>
+  <package>mvn(com.google.inject:guice)</package>
   <package>mvn(com.jcraft:jsch)</package>
   <package>mvn(com.jcraft:jzlib)</package>
   <package>mvn(com.lmax:disruptor)</package>
@@ -212,7 +212,6 @@
   <package>mvn(org.sonatype.plexus:plexus-build-api::tests:)</package>
   <package>mvn(org.sonatype.plexus:plexus-cipher)</package>
   <package>mvn(org.sonatype.plugins:munge-maven-plugin)</package>
-  <package>mvn(org.sonatype.sisu:sisu-guice::no_aop:)</package>
   <package>mvn(org.testng:testng)</package>
   <package>mvn(org.testng:testng::jdk15:)</package>
   <package>mvn(org.tukaani:xz)</package>
