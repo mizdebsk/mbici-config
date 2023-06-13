@@ -39,6 +39,7 @@
   <package>mvn(biz.aQute.bnd:biz.aQute.bndlib)</package>
   <package>mvn(bsf:bsf)</package>
   <package>mvn(cglib:cglib)</package>
+  <package>mvn(codes.rafael.modulemaker:modulemaker-maven-plugin)</package>
   <package>mvn(com.beust:jcommander)</package>
   <package>mvn(com.google.code.findbugs:jsr305)</package>
   <package>mvn(com.google.guava:guava)</package>
