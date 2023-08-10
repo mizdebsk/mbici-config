@@ -34,7 +34,6 @@
       <name>_with_bootstrap</name>
       <value>1</value>
     </macro>
-    <component>maven-shared-utils</component>
     <component>ant</component>
     <component>aopalliance</component>
     <component>apache-commons-beanutils</component>
@@ -58,6 +57,7 @@
     <component>byte-buddy</component>
     <component>cdi-api</component>
     <component>cglib</component>
+    <component>disruptor</component>
     <component>easymock</component>
     <component>extra-enforcer-rules</component>
     <component>felix-parent</component>
@@ -69,16 +69,20 @@
     <component>httpcomponents-client</component>
     <component>httpcomponents-core</component>
     <component>httpcomponents-project</component>
+    <component>jakarta-activation1</component>
     <component>jakarta-annotations</component>
+    <component>jakarta-mail</component>
     <component>jakarta-servlet</component>
     <component>jansi</component>
     <component>java_cup</component>
+    <component>jctools</component>
     <component>jdom</component>
     <component>jdom2</component>
     <component>jflex</component>
     <component>jsr-305</component>
     <component>junit</component>
     <component>junit5</component>
+    <component>log4j</component>
     <component>maven</component>
     <component>maven-antrun-plugin</component>
     <component>maven-archiver</component>
@@ -102,6 +106,7 @@
     <component>maven-resources-plugin</component>
     <component>maven-shared-incremental</component>
     <component>maven-shared-io</component>
+    <component>maven-shared-utils</component>
     <component>maven-source-plugin</component>
     <component>maven-surefire</component>
     <component>maven-verifier</component>
@@ -169,6 +174,7 @@
     <component>byte-buddy</component>
     <component>cdi-api</component>
     <component>cglib</component>
+    <component>disruptor</component>
     <component>easymock</component>
     <component>extra-enforcer-rules</component>
     <component>felix-parent</component>
@@ -180,16 +186,20 @@
     <component>httpcomponents-client</component>
     <component>httpcomponents-core</component>
     <component>httpcomponents-project</component>
+    <component>jakarta-activation1</component>
     <component>jakarta-annotations</component>
+    <component>jakarta-mail</component>
     <component>jakarta-servlet</component>
     <component>jansi</component>
     <component>java_cup</component>
+    <component>jctools</component>
     <component>jdom</component>
     <component>jdom2</component>
     <component>jflex</component>
     <component>jsr-305</component>
     <component>junit</component>
     <component>junit5</component>
+    <component>log4j</component>
     <component>maven</component>
     <component>maven-antrun-plugin</component>
     <component>maven-archiver</component>
