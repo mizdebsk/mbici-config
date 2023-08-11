@@ -79,6 +79,7 @@
     <component>jdom</component>
     <component>jdom2</component>
     <component>jflex</component>
+    <component>jsoup</component>
     <component>jsr-305</component>
     <component>junit</component>
     <component>junit5</component>
@@ -199,6 +200,7 @@
     <component>jsr-305</component>
     <component>junit</component>
     <component>junit5</component>
+    <component>jsoup</component>
     <component>log4j</component>
     <component>maven</component>
     <component>maven-antrun-plugin</component>
