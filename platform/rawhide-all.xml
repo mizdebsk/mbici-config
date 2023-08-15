@@ -17,11 +17,9 @@
   <package>coreutils</package>
   <package>gcc-c++</package>
   <package>gcc</package>
-  <package>java-1.8.0-openjdk-devel</package>
   <package>java-17-openjdk-devel</package>
   <package>java-devel</package>
   <package>java_cup</package>
-  <package>javapackages-bootstrap-openjdk8</package>
   <package>javapackages-bootstrap</package>
   <package>javapackages-extra</package>
   <package>javapackages-local</package>
@@ -30,7 +28,6 @@
   <package>lua</package>
   <package>lujavrite</package>
   <package>make</package>
-  <package>maven-local-openjdk8</package>
   <package>maven-local</package>
   <package>maven</package>
   <package>mvn(antlr:antlr)</package>
