@@ -209,7 +209,6 @@
   <package>mvn(org.sonatype.plexus:plexus-build-api)</package>
   <package>mvn(org.sonatype.plexus:plexus-build-api::tests:)</package>
   <package>mvn(org.sonatype.plexus:plexus-cipher)</package>
-  <package>mvn(org.sonatype.plugins:munge-maven-plugin)</package>
   <package>mvn(org.testng:testng)</package>
   <package>mvn(org.testng:testng::jdk15:)</package>
   <package>mvn(org.tukaani:xz)</package>

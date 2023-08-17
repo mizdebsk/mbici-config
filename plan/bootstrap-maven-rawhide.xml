@@ -116,7 +116,6 @@
     <component>modello</component>
     <component>modulemaker-maven-plugin</component>
     <component>mojo-parent</component>
-    <component>munge-maven-plugin</component>
     <component>objectweb-asm</component>
     <component>objenesis</component>
     <component>opentest4j</component>
@@ -234,7 +233,6 @@
     <component>modello</component>
     <component>modulemaker-maven-plugin</component>
     <component>mojo-parent</component>
-    <component>munge-maven-plugin</component>
     <component>objectweb-asm</component>
     <component>objenesis</component>
     <component>opentest4j</component>
