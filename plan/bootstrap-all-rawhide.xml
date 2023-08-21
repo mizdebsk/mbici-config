@@ -121,6 +121,7 @@
     <component>osgi-core</component>
     <component>plexus-archiver</component>
     <component>plexus-build-api</component>
+    <component>plexus-build-api0</component>
     <component>plexus-cipher</component>
     <component>plexus-classworlds</component>
     <component>plexus-compiler</component>
@@ -236,6 +237,7 @@
     <component>osgi-core</component>
     <component>plexus-archiver</component>
     <component>plexus-build-api</component>
+    <component>plexus-build-api0</component>
     <component>plexus-cipher</component>
     <component>plexus-classworlds</component>
     <component>plexus-compiler</component>
