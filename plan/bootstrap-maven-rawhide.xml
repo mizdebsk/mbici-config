@@ -69,7 +69,7 @@
     <component>httpcomponents-client</component>
     <component>httpcomponents-core</component>
     <component>httpcomponents-project</component>
-    <component>jakarta-activation1</component>
+    <component>jakarta-activation</component>
     <component>jakarta-annotations</component>
     <component>jakarta-mail</component>
     <component>jakarta-servlet</component>
@@ -187,7 +187,7 @@
     <component>httpcomponents-client</component>
     <component>httpcomponents-core</component>
     <component>httpcomponents-project</component>
-    <component>jakarta-activation1</component>
+    <component>jakarta-activation</component>
     <component>jakarta-annotations</component>
     <component>jakarta-mail</component>
     <component>jakarta-servlet</component>
@@ -197,10 +197,10 @@
     <component>jdom</component>
     <component>jdom2</component>
     <component>jflex</component>
+    <component>jsoup</component>
     <component>jsr-305</component>
     <component>junit</component>
     <component>junit5</component>
-    <component>jsoup</component>
     <component>log4j</component>
     <component>maven</component>
     <component>maven-antrun-plugin</component>

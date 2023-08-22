@@ -60,7 +60,6 @@
     <component>httpcomponents-client</component>
     <component>httpcomponents-core</component>
     <component>httpcomponents-project</component>
-    <component>jakarta-activation1</component>
     <component>jakarta-activation</component>
     <component>jakarta-annotations</component>
     <component>jakarta-mail</component>
