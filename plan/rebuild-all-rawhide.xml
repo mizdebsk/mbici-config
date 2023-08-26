@@ -19,6 +19,10 @@
     <name>_without_bnd_maven_plugin</name>
     <value>1</value>
   </macro>
+  <macro>
+    <name>_without_maven_reporting</name>
+    <value>1</value>
+  </macro>
   <phase>
     <name>p0</name>
     <component>ant</component>
@@ -67,6 +71,8 @@
     <component>jakarta-servlet</component>
     <component>jansi</component>
     <component>java_cup</component>
+    <component>javacc</component>
+    <component>javacc-maven-plugin</component>
     <component>javapackages-bootstrap</component>
     <component>javapackages-tools</component>
     <component>jaxb-api</component>

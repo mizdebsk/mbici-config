@@ -23,6 +23,10 @@
     <name>_with_ant_minimal</name>
     <value>1</value>
   </macro>
+  <macro>
+    <name>_without_maven_reporting</name>
+    <value>1</value>
+  </macro>
   <phase>
     <name>b2</name>
     <component>javapackages-bootstrap</component>
@@ -75,6 +79,8 @@
     <component>jakarta-servlet</component>
     <component>jansi</component>
     <component>java_cup</component>
+    <component>javacc</component>
+    <component>javacc-maven-plugin</component>
     <component>jctools</component>
     <component>jdom</component>
     <component>jdom2</component>
@@ -193,6 +199,8 @@
     <component>jakarta-servlet</component>
     <component>jansi</component>
     <component>java_cup</component>
+    <component>javacc</component>
+    <component>javacc-maven-plugin</component>
     <component>jctools</component>
     <component>jdom</component>
     <component>jdom2</component>
