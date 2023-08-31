@@ -7,7 +7,6 @@
     <name>AppStream</name>
     <url>https://odcs.stream.centos.org/production/latest-CentOS-Stream/compose/AppStream/x86_64/os/</url>
   </repo>
-  <package>shadow-utils</package>
   <package>rpm-build</package>
   <package>glibc-minimal-langpack</package>
   <package>which</package>

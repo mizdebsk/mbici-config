@@ -3,7 +3,6 @@
     <name>Everything</name>
     <url>http://mirroronet.pl/pub/mirrors/fedora/linux/development/rawhide/Everything/x86_64/os/</url>
   </repo>
-  <package>shadow-utils</package>
   <package>rpm-build</package>
   <package>glibc-minimal-langpack</package>
 
