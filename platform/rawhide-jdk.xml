@@ -25,5 +25,6 @@
   <package>lua</package>
   <package>lujavrite</package>
   <package>rpm-devel</package>
+  <package>rpm-local-generator-support</package>
   <package>jurand</package>
 </platform>
