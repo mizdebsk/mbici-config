@@ -1,7 +1,7 @@
 <platform>
   <repo>
     <name>Everything</name>
-    <url>http://mirroronet.pl/pub/mirrors/fedora/linux/development/rawhide/Everything/x86_64/os/</url>
+    <url>https://download.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/x86_64/os/</url>
   </repo>
   <package>rpm-build</package>
   <package>glibc-minimal-langpack</package>
