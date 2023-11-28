@@ -125,6 +125,7 @@
     <component>modello</component>
     <component>modulemaker-maven-plugin</component>
     <component>mojo-parent</component>
+    <component>msv</component>
     <component>objectweb-asm</component>
     <component>objenesis</component>
     <component>opentest4j</component>
@@ -148,6 +149,7 @@
     <component>plexus-utils</component>
     <component>qdox</component>
     <component>regexp</component>
+    <component>relaxng-datatype</component>
     <component>sisu-mojos</component>
     <component>sisu</component>
     <component>slf4j</component>

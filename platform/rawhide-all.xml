@@ -19,17 +19,18 @@
   <package>java-17-openjdk-devel</package>
   <package>java-devel</package>
   <package>java_cup</package>
+  <package>javacc</package>
   <package>javapackages-bootstrap</package>
-  <package>javapackages-extra</package>
   <package>javapackages-local</package>
   <package>jflex</package>
   <package>junit5</package>
-  <package>lua</package>
+  <package>jurand</package>
   <package>lujavrite</package>
   <package>make</package>
   <package>maven-local</package>
   <package>maven</package>
   <package>mvn(antlr:antlr)</package>
+  <package>mvn(aopalliance:aopalliance)</package>
   <package>mvn(bcel:bcel)</package>
   <package>mvn(biz.aQute.bnd:biz.aQute.bnd)</package>
   <package>mvn(biz.aQute.bnd:biz.aQute.bndlib)</package>
@@ -37,7 +38,9 @@
   <package>mvn(cglib:cglib)</package>
   <package>mvn(codes.rafael.modulemaker:modulemaker-maven-plugin)</package>
   <package>mvn(com.beust:jcommander)</package>
+  <package>mvn(com.github.relaxng:relaxngDatatype)</package>
   <package>mvn(com.google.code.findbugs:jsr305)</package>
+  <package>mvn(com.google.guava:failureaccess)</package>
   <package>mvn(com.google.guava:guava)</package>
   <package>mvn(com.google.guava:guava-testlib)</package>
   <package>mvn(com.google.inject.extensions:guice-servlet)</package>
@@ -45,10 +48,9 @@
   <package>mvn(com.jcraft:jsch)</package>
   <package>mvn(com.jcraft:jzlib)</package>
   <package>mvn(com.lmax:disruptor)</package>
-  <package>mvn(com.sun.activation:jakarta.activation)</package>
+  <package>mvn(com.sun.istack:istack-commons-maven-plugin)</package>
   <package>mvn(com.sun.istack:istack-commons-runtime)</package>
   <package>mvn(com.sun.istack:istack-commons-tools)</package>
-  <package>mvn(com.sun.mail:javax.mail)</package>
   <package>mvn(com.sun.xml.dtd-parser:dtd-parser)</package>
   <package>mvn(com.sun.xml.fastinfoset:FastInfoset)</package>
   <package>mvn(com.thoughtworks.qdox:qdox)</package>
@@ -64,22 +66,26 @@
   <package>mvn(commons-net:commons-net)</package>
   <package>mvn(jakarta.activation:jakarta.activation-api)</package>
   <package>mvn(jakarta.inject:jakarta.inject-api)</package>
+  <package>mvn(jakarta.mail:jakarta.mail-api)</package>
   <package>mvn(jakarta.xml.bind:jakarta.xml.bind-api)</package>
   <package>mvn(java_cup:java_cup)</package>
   <package>mvn(javax.annotation:javax.annotation-api)</package>
   <package>mvn(javax.enterprise:cdi-api)</package>
   <package>mvn(javax.inject:javax.inject)</package>
-  <package>mvn(javax.mail:mail)</package>
   <package>mvn(javax.servlet:javax.servlet-api)</package>
   <package>mvn(javax.servlet:servlet-api)</package>
   <package>mvn(jdepend:jdepend)</package>
   <package>mvn(jdom:jdom)</package>
   <package>mvn(junit:junit)</package>
+  <package>mvn(log4j:log4j)</package>
   <package>mvn(net.bytebuddy:byte-buddy)</package>
   <package>mvn(net.bytebuddy:byte-buddy-agent)</package>
   <package>mvn(net.bytebuddy:byte-buddy-dep)</package>
+  <package>mvn(net.java.dev.javacc:javacc)</package>
+  <package>mvn(net.java.dev.msv:xsdlib)</package>
   <package>mvn(org.apache.ant:ant)</package>
   <package>mvn(org.apache.ant:ant-junit)</package>
+  <package>mvn(org.apache.apache.resources:apache-jar-resource-bundle)</package>
   <package>mvn(org.apache.commons:commons-compress)</package>
   <package>mvn(org.apache.commons:commons-lang3)</package>
   <package>mvn(org.apache.commons:commons-parent:pom:)</package>
@@ -105,6 +111,8 @@
   <package>mvn(org.apache.maven.resolver:maven-resolver-connector-basic)</package>
   <package>mvn(org.apache.maven.resolver:maven-resolver-impl)</package>
   <package>mvn(org.apache.maven.resolver:maven-resolver-spi)</package>
+  <package>mvn(org.apache.maven.resolver:maven-resolver-transport-file)</package>
+  <package>mvn(org.apache.maven.resolver:maven-resolver-transport-http)</package>
   <package>mvn(org.apache.maven.resolver:maven-resolver-transport-wagon)</package>
   <package>mvn(org.apache.maven.resolver:maven-resolver-util)</package>
   <package>mvn(org.apache.maven.shared:file-management)</package>
@@ -113,7 +121,7 @@
   <package>mvn(org.apache.maven.shared:maven-dependency-analyzer)</package>
   <package>mvn(org.apache.maven.shared:maven-dependency-tree)</package>
   <package>mvn(org.apache.maven.shared:maven-filtering)</package>
-  <package>mvn(org.apache.maven.shared:maven-plugin-testing-harness)</package>
+  <package>mvn(org.apache.maven.shared:maven-mapping)</package>
   <package>mvn(org.apache.maven.shared:maven-shared-components:pom:)</package>
   <package>mvn(org.apache.maven.shared:maven-shared-incremental)</package>
   <package>mvn(org.apache.maven.shared:maven-shared-io)</package>
@@ -130,13 +138,15 @@
   <package>mvn(org.apache.maven:maven-artifact)</package>
   <package>mvn(org.apache.maven:maven-compat)</package>
   <package>mvn(org.apache.maven:maven-core)</package>
+  <package>mvn(org.apache.maven:maven-embedder)</package>
   <package>mvn(org.apache.maven:maven-model)</package>
   <package>mvn(org.apache.maven:maven-model-builder)</package>
   <package>mvn(org.apache.maven:maven-parent:pom:)</package>
   <package>mvn(org.apache.maven:maven-plugin-api)</package>
   <package>mvn(org.apache.maven:maven-repository-metadata)</package>
+  <package>mvn(org.apache.maven:maven-resolver-provider)</package>
   <package>mvn(org.apache.maven:maven-settings)</package>
-  <package>mvn(org.apache.velocity:velocity)</package>
+  <package>mvn(org.apache.velocity:velocity-engine-core)</package>
   <package>mvn(org.apache.xbean:xbean-reflect)</package>
   <package>mvn(org.apache:apache-jar-resource-bundle)</package>
   <package>mvn(org.apache:apache:pom:)</package>
@@ -145,6 +155,7 @@
   <package>mvn(org.codehaus.modello:modello-maven-plugin)</package>
   <package>mvn(org.codehaus.mojo:build-helper-maven-plugin)</package>
   <package>mvn(org.codehaus.mojo:extra-enforcer-rules)</package>
+  <package>mvn(org.codehaus.mojo:javacc-maven-plugin)</package>
   <package>mvn(org.codehaus.mojo:mojo-parent:pom:)</package>
   <package>mvn(org.codehaus.plexus:plexus-archiver)</package>
   <package>mvn(org.codehaus.plexus:plexus-cipher)</package>
@@ -165,26 +176,25 @@
   <package>mvn(org.codehaus.plexus:plexus:pom:)</package>
   <package>mvn(org.easymock:easymock)</package>
   <package>mvn(org.eclipse.aether:aether-api)</package>
-  <package>mvn(org.eclipse.aether:aether-connector-wagon)</package>
   <package>mvn(org.eclipse.aether:aether-impl)</package>
   <package>mvn(org.eclipse.aether:aether-util)</package>
-  <package>mvn(org.eclipse.jetty:jetty-http)</package>
-  <package>mvn(org.eclipse.jetty:jetty-server)</package>
-  <package>mvn(org.eclipse.jetty:jetty-util)</package>
   <package>mvn(org.eclipse.sisu:org.eclipse.sisu.inject)</package>
   <package>mvn(org.eclipse.sisu:org.eclipse.sisu.plexus)</package>
   <package>mvn(org.eclipse.sisu:sisu-maven-plugin)</package>
   <package>mvn(org.fusesource.jansi:jansi)</package>
   <package>mvn(org.fusesource:fusesource-pom:pom:)</package>
+  <package>mvn(org.glassfish.jaxb:codemodel)</package>
   <package>mvn(org.hamcrest:hamcrest)</package>
   <package>mvn(org.hamcrest:hamcrest-all)</package>
   <package>mvn(org.hamcrest:hamcrest-core)</package>
   <package>mvn(org.hamcrest:hamcrest-library)</package>
   <package>mvn(org.jctools:jctools-core)</package>
   <package>mvn(org.jdom:jdom2)</package>
+  <package>mvn(org.jsoup:jsoup)</package>
   <package>mvn(org.junit.jupiter:junit-jupiter)</package>
   <package>mvn(org.junit.jupiter:junit-jupiter-api)</package>
   <package>mvn(org.junit.jupiter:junit-jupiter-engine)</package>
+  <package>mvn(org.junit.jupiter:junit-jupiter-params)</package>
   <package>mvn(org.junit.platform:junit-platform-launcher)</package>
   <package>mvn(org.junit.vintage:junit-vintage-engine)</package>
   <package>mvn(org.junit:junit-bom:pom:)</package>
@@ -216,6 +226,7 @@
   <package>mvn(org.xmlunit:xmlunit-matchers)</package>
   <package>mvn(oro:oro)</package>
   <package>mvn(regexp:regexp)</package>
+  <package>mvn(relaxngDatatype:relaxngDatatype)</package>
   <package>mvn(xalan:xalan)</package>
   <package>mvn(xml-resolver:xml-resolver)</package>
   <package>publicsuffix-list</package>

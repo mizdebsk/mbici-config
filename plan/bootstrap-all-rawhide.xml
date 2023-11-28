@@ -151,6 +151,7 @@
     <component>xmvn</component>
     <component>xmvn-generator</component>
     <component>xz-java</component>
+    <component>jaxb</component>
   </phase>
   <phase>
     <name>nb2</name>
@@ -283,30 +284,32 @@
     <component>apache-commons-net</component>
     <component>bcel</component>
     <component>jakarta-oro</component>
+    <component>jaxb-api</component>
     <component>jaxb-dtd-parser</component>
     <component>jaxb-fi</component>
+    <component>jaxb-istack-commons</component>
     <component>jdepend</component>
     <component>jzlib</component>
     <component>regexp</component>
+    <component>relaxng-datatype-java</component>
     <component>xml-commons-apis</component>
     <component>xml-commons-resolver</component>
   </phase>
   <phase>
     <name>a2</name>
-    <component>jaxb-api</component>
-    <component>jaxb-istack-commons</component>
+    <component>jaxb-stax-ex</component>
     <component>jsch</component>
+    <component>msv</component>
     <component>xerces-j2</component>
   </phase>
   <phase>
     <name>a3</name>
-    <component>jaxb-stax-ex</component>
+    <component>jaxb</component>
     <component>xalan-j2</component>
   </phase>
   <phase>
     <name>a4</name>
     <component>bsf</component>
-    <component>jaxb</component>
   </phase>
   <phase>
     <name>a5</name>
