@@ -75,6 +75,7 @@
     <component>javacc-maven-plugin</component>
     <component>javapackages-bootstrap</component>
     <component>javapackages-tools</component>
+    <component>javaparser</component>
     <component>jaxb-api</component>
     <component>jaxb-dtd-parser</component>
     <component>jaxb-fi</component>
@@ -123,6 +124,7 @@
     <component>maven</component>
     <component>mockito</component>
     <component>modello</component>
+    <component>moditect</component>
     <component>modulemaker-maven-plugin</component>
     <component>mojo-parent</component>
     <component>msv</component>

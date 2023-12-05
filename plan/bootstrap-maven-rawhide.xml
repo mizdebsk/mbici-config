@@ -81,6 +81,7 @@
     <component>java_cup</component>
     <component>javacc</component>
     <component>javacc-maven-plugin</component>
+    <component>javaparser</component>
     <component>jctools</component>
     <component>jdom</component>
     <component>jdom2</component>
@@ -120,6 +121,7 @@
     <component>maven-wagon</component>
     <component>mockito</component>
     <component>modello</component>
+    <component>moditect</component>
     <component>modulemaker-maven-plugin</component>
     <component>mojo-parent</component>
     <component>objectweb-asm</component>
@@ -201,6 +203,7 @@
     <component>java_cup</component>
     <component>javacc</component>
     <component>javacc-maven-plugin</component>
+    <component>javaparser</component>
     <component>jctools</component>
     <component>jdom</component>
     <component>jdom2</component>
@@ -240,6 +243,7 @@
     <component>maven-wagon</component>
     <component>mockito</component>
     <component>modello</component>
+    <component>moditect</component>
     <component>modulemaker-maven-plugin</component>
     <component>mojo-parent</component>
     <component>objectweb-asm</component>
