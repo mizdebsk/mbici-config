@@ -1,7 +1,7 @@
 <platform>
   <repo>
     <name>Everything</name>
-    <url>https://download.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/x86_64/os/</url>
+    <url>https://dl.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/x86_64/os/</url>
   </repo>
   <package>rpm-build</package>
   <package>glibc-minimal-langpack</package>
@@ -62,7 +62,6 @@
   <package>mvn(commons-io:commons-io)</package>
   <package>mvn(commons-jxpath:commons-jxpath)</package>
   <package>mvn(commons-logging:commons-logging)</package>
-  <package>mvn(commons-logging:commons-logging-api)</package>
   <package>mvn(commons-net:commons-net)</package>
   <package>mvn(jakarta.activation:jakarta.activation-api)</package>
   <package>mvn(jakarta.inject:jakarta.inject-api)</package>
