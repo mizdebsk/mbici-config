@@ -141,6 +141,7 @@
     <component>plexus-resources</component>
     <component>plexus-sec-dispatcher</component>
     <component>plexus-utils</component>
+    <component>plexus-xml</component>
     <component>qdox</component>
     <component>sisu</component>
     <component>sisu-mojos</component>
@@ -262,6 +263,7 @@
     <component>plexus-resources</component>
     <component>plexus-sec-dispatcher</component>
     <component>plexus-utils</component>
+    <component>plexus-xml</component>
     <component>qdox</component>
     <component>sisu</component>
     <component>sisu-mojos</component>
