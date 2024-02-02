@@ -140,6 +140,7 @@
     <component>plexus-pom</component>
     <component>plexus-resources</component>
     <component>plexus-sec-dispatcher</component>
+    <component>plexus-testing</component>
     <component>plexus-utils</component>
     <component>plexus-xml</component>
     <component>qdox</component>
@@ -262,6 +263,7 @@
     <component>plexus-pom</component>
     <component>plexus-resources</component>
     <component>plexus-sec-dispatcher</component>
+    <component>plexus-testing</component>
     <component>plexus-utils</component>
     <component>plexus-xml</component>
     <component>qdox</component>
