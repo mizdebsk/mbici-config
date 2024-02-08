@@ -144,7 +144,9 @@
     <component>plexus-pom</component>
     <component>plexus-resources</component>
     <component>plexus-sec-dispatcher</component>
+    <component>plexus-testing</component>
     <component>plexus-utils</component>
+    <component>plexus-xml</component>
     <component>qdox</component>
     <component>sisu</component>
     <component>sisu-mojos</component>
@@ -152,7 +154,6 @@
     <component>testng</component>
     <component>univocity-parsers</component>
     <component>velocity</component>
-    <component>xbean</component>
     <component>xmlunit</component>
     <component>xmvn</component>
     <component>xmvn-generator</component>
@@ -266,7 +267,9 @@
     <component>plexus-pom</component>
     <component>plexus-resources</component>
     <component>plexus-sec-dispatcher</component>
+    <component>plexus-testing</component>
     <component>plexus-utils</component>
+    <component>plexus-xml</component>
     <component>qdox</component>
     <component>sisu</component>
     <component>sisu-mojos</component>
@@ -274,7 +277,6 @@
     <component>testng</component>
     <component>univocity-parsers</component>
     <component>velocity</component>
-    <component>xbean</component>
     <component>xmlunit</component>
     <component>xmvn</component>
     <component>xmvn-generator</component>
