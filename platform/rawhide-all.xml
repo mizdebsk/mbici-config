@@ -16,7 +16,7 @@
   <package>coreutils</package>
   <package>gcc-c++</package>
   <package>gcc</package>
-  <package>java-17-openjdk-devel</package>
+  <package>java-21-openjdk-devel</package>
   <package>java-devel</package>
   <package>java_cup</package>
   <package>javacc</package>
