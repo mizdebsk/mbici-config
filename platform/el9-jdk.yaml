@@ -1,0 +1,26 @@
+repos:
+  BaseOS: https://ftp.icm.edu.pl/pub/Linux/dist/almalinux/9/BaseOS/x86_64/os/
+  AppStream: https://ftp.icm.edu.pl/pub/Linux/dist/almalinux/9/AppStream/x86_64/os/
+  CRB: https://ftp.icm.edu.pl/pub/Linux/dist/almalinux/9/CRB/x86_64/os/
+packages:
+  - rpm-build
+  - glibc-minimal-langpack
+  - which
+  - gcc
+  - gcc-c++
+  - make
+  - java-17-openjdk-devel
+  - java-11-openjdk-devel
+  - java-1.8.0-openjdk-devel
+  - bash
+  - coreutils
+  - findutils
+  - python3-devel
+  - python3-lxml
+  - python3-pytest
+  - python3-setuptools
+  - procps-ng
+  - publicsuffix-list
+  - asciidoc
+  - xmlto
+  - lua

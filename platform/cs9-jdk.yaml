@@ -1,0 +1,24 @@
+repos:
+  BaseOS: https://odcs.stream.centos.org/production/latest-CentOS-Stream/compose/BaseOS/x86_64/os/
+  AppStream: https://odcs.stream.centos.org/production/latest-CentOS-Stream/compose/AppStream/x86_64/os/
+packages:
+  - rpm-build
+  - glibc-minimal-langpack
+  - which
+  - gcc
+  - gcc-c++
+  - make
+  - java-17-openjdk-devel
+  - java-11-openjdk-devel
+  - java-1.8.0-openjdk-devel
+  - bash
+  - coreutils
+  - findutils
+  - python3-devel
+  - python3-lxml
+  - python3-setuptools
+  - procps-ng
+  - publicsuffix-list
+  - asciidoc
+  - xmlto
+  - lua

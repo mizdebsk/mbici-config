@@ -1,0 +1,27 @@
+repos:
+  Everything: https://dl.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/x86_64/os/
+packages:
+  - rpm-build
+  - glibc-minimal-langpack
+  - byaccj
+  - which
+  - gcc
+  - gcc-c++
+  - make
+  - java-21-openjdk-devel
+  - bash
+  - coreutils
+  - findutils
+  - python3-devel
+  - python3-lxml
+  - python3-pytest
+  - python3-setuptools
+  - procps-ng
+  - publicsuffix-list
+  - asciidoc
+  - xmlto
+  - lua
+  - lujavrite
+  - rpm-devel
+  - rpm-local-generator-support
+  - jurand
