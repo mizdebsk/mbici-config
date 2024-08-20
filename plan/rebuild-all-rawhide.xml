@@ -152,7 +152,6 @@
     <component>qdox</component>
     <component>regexp</component>
     <component>relaxng-datatype-java</component>
-    <component>sisu-mojos</component>
     <component>sisu</component>
     <component>slf4j</component>
     <component>testng</component>

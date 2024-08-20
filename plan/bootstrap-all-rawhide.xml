@@ -145,7 +145,6 @@
     <component>plexus-xml</component>
     <component>qdox</component>
     <component>sisu</component>
-    <component>sisu-mojos</component>
     <component>slf4j</component>
     <component>testng</component>
     <component>univocity-parsers</component>
@@ -267,7 +266,6 @@
     <component>plexus-xml</component>
     <component>qdox</component>
     <component>sisu</component>
-    <component>sisu-mojos</component>
     <component>slf4j</component>
     <component>testng</component>
     <component>univocity-parsers</component>
