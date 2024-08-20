@@ -235,7 +235,6 @@
   <package>python3-setuptools</package>
   <package>regexp</package>
   <package>rpm-devel</package>
-  <package>rpm-local-generator-support</package>
   <package>sed</package>
   <package>which</package>
   <package>xalan-j2</package>
