@@ -132,7 +132,6 @@
     <component>plexus-cipher</component>
     <component>plexus-classworlds</component>
     <component>plexus-compiler</component>
-    <component>plexus-components-pom</component>
     <component>plexus-containers</component>
     <component>plexus-interpolation</component>
     <component>plexus-io</component>
@@ -253,7 +252,6 @@
     <component>plexus-cipher</component>
     <component>plexus-classworlds</component>
     <component>plexus-compiler</component>
-    <component>plexus-components-pom</component>
     <component>plexus-containers</component>
     <component>plexus-interpolation</component>
     <component>plexus-io</component>
