@@ -50,7 +50,6 @@
     <component>bsf</component>
     <component>build-helper-maven-plugin</component>
     <component>byte-buddy</component>
-    <component>cdi-api</component>
     <component>cglib</component>
     <component>disruptor</component>
     <component>easymock</component>
@@ -66,6 +65,7 @@
     <component>httpcomponents-project</component>
     <component>jakarta-activation</component>
     <component>jakarta-annotations</component>
+    <component>jakarta-cdi</component>
     <component>jakarta-mail</component>
     <component>jakarta-oro</component>
     <component>jakarta-servlet</component>
