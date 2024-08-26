@@ -44,7 +44,6 @@
     <component>apiguardian</component>
     <component>aqute-bnd</component>
     <component>assertj-core</component>
-    <component>atinject</component>
     <component>bcel</component>
     <component>beust-jcommander</component>
     <component>bsf</component>
@@ -66,6 +65,7 @@
     <component>jakarta-activation</component>
     <component>jakarta-annotations</component>
     <component>jakarta-cdi</component>
+    <component>jakarta-inject</component>
     <component>jakarta-mail</component>
     <component>jakarta-oro</component>
     <component>jakarta-servlet</component>

@@ -51,7 +51,6 @@
     <component>apiguardian</component>
     <component>aqute-bnd</component>
     <component>assertj-core</component>
-    <component>atinject</component>
     <component>beust-jcommander</component>
     <component>build-helper-maven-plugin</component>
     <component>byte-buddy</component>
@@ -71,6 +70,7 @@
     <component>jakarta-activation</component>
     <component>jakarta-annotations</component>
     <component>jakarta-cdi</component>
+    <component>jakarta-inject</component>
     <component>jakarta-mail</component>
     <component>jakarta-servlet</component>
     <component>jansi</component>
@@ -172,7 +172,6 @@
     <component>apiguardian</component>
     <component>aqute-bnd</component>
     <component>assertj-core</component>
-    <component>atinject</component>
     <component>beust-jcommander</component>
     <component>build-helper-maven-plugin</component>
     <component>byte-buddy</component>
@@ -192,6 +191,7 @@
     <component>jakarta-activation</component>
     <component>jakarta-annotations</component>
     <component>jakarta-cdi</component>
+    <component>jakarta-inject</component>
     <component>jakarta-mail</component>
     <component>jakarta-servlet</component>
     <component>jansi</component>
