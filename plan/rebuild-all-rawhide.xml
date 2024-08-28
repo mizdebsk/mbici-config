@@ -65,7 +65,9 @@
     <component>jakarta-activation</component>
     <component>jakarta-annotations</component>
     <component>jakarta-cdi</component>
+    <component>jakarta-cdi2.0</component>
     <component>jakarta-inject</component>
+    <component>jakarta-inject1.0</component>
     <component>jakarta-mail</component>
     <component>jakarta-oro</component>
     <component>jakarta-servlet</component>
