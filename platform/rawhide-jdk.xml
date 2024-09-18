@@ -20,8 +20,7 @@
   <package>python3-setuptools</package>
   <package>procps-ng</package>
   <package>publicsuffix-list</package>
-  <package>asciidoc</package>
-  <package>xmlto</package>
+  <package>rubygem-asciidoctor</package>
   <package>lua</package>
   <package>lujavrite</package>
   <package>rpm-devel</package>
