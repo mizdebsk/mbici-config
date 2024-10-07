@@ -236,7 +236,6 @@
   <package>regexp</package>
   <package>rpm-devel</package>
   <package>sed</package>
-  <package>which</package>
   <package>xalan-j2</package>
   <package>xerces-j2</package>
   <package>xml-commons-apis</package>
