@@ -80,6 +80,7 @@ b3:
   - javacc
   - javacc-maven-plugin
   - javaparser
+  - jaxb
   - jctools
   - jdom
   - jdom2
@@ -154,7 +155,6 @@ b3:
   - xmvn
   - xmvn-generator
   - xz-java
-  - jaxb
 nb2:
   - aopalliance
   - apache-commons-beanutils
