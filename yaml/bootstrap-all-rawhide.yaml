@@ -29,7 +29,10 @@ macros:
   _without_ivy: 1
   _without_bnd_maven_plugin: 1
   _without_maven_reporting: 1
+  _without_picocli_shell: 1
 b3-macros:
+  _with_bootstrap: 1
+b4-macros:
   _with_bootstrap: 1
 b2:
   - javapackages-bootstrap
@@ -62,6 +65,7 @@ b3:
   - felix-parent
   - felix-utils
   - fusesource-pom
+  - google-gson
   - google-guice
   - guava
   - hamcrest
@@ -85,10 +89,13 @@ b3:
   - jdom
   - jdom2
   - jflex
+  - jline
   - jsoup
   - jsr-305
   - junit
   - junit5
+  - kojan-parent
+  - kojan-xml
   - log4j
   - maven
   - maven-antrun-plugin
@@ -110,6 +117,7 @@ b3:
   - maven-plugin-tools
   - maven-remote-resources-plugin
   - maven-resolver
+  - maven-resolver2
   - maven-resources-plugin
   - maven-shared-incremental
   - maven-shared-io
@@ -118,6 +126,7 @@ b3:
   - maven-surefire
   - maven-verifier
   - maven-wagon
+  - maven4
   - mockito
   - modello
   - moditect
@@ -129,6 +138,7 @@ b3:
   - osgi-annotation
   - osgi-compendium
   - osgi-core
+  - picocli
   - plexus-archiver
   - plexus-build-api
   - plexus-build-api0
@@ -136,25 +146,32 @@ b3:
   - plexus-classworlds
   - plexus-compiler
   - plexus-containers
+  - plexus-interactivity
   - plexus-interpolation
   - plexus-io
   - plexus-languages
   - plexus-pom
   - plexus-resources
   - plexus-sec-dispatcher
+  - plexus-sec-dispatcher4
   - plexus-testing
   - plexus-utils
+  - plexus-utils4
   - plexus-xml
   - qdox
   - sisu
   - slf4j
+  - slf4j2
+  - stax2-api
   - testng
   - univocity-parsers
   - velocity
+  - woodstox-core
   - xmlunit
-  - xmvn
   - xmvn-generator
   - xz-java
+b4:
+  - xmvn
 nb2:
   - aopalliance
   - apache-commons-beanutils
@@ -182,6 +199,7 @@ nb2:
   - felix-parent
   - felix-utils
   - fusesource-pom
+  - google-gson
   - google-guice
   - guava
   - hamcrest
@@ -204,10 +222,13 @@ nb2:
   - jdom
   - jdom2
   - jflex
+  - jline
   - jsoup
   - jsr-305
   - junit
   - junit5
+  - kojan-parent
+  - kojan-xml
   - log4j
   - maven-antrun-plugin
   - maven-archiver
@@ -228,6 +249,7 @@ nb2:
   - maven-plugin-tools
   - maven-remote-resources-plugin
   - maven-resolver
+  - maven-resolver2
   - maven-resources-plugin
   - maven-shared-incremental
   - maven-shared-io
@@ -247,6 +269,7 @@ nb2:
   - osgi-annotation
   - osgi-compendium
   - osgi-core
+  - picocli
   - plexus-archiver
   - plexus-build-api
   - plexus-build-api0
@@ -254,26 +277,33 @@ nb2:
   - plexus-classworlds
   - plexus-compiler
   - plexus-containers
+  - plexus-interactivity
   - plexus-interpolation
   - plexus-io
   - plexus-languages
   - plexus-pom
   - plexus-resources
   - plexus-sec-dispatcher
+  - plexus-sec-dispatcher4
   - plexus-testing
   - plexus-utils
+  - plexus-utils4
   - plexus-xml
   - qdox
   - sisu
   - slf4j
+  - slf4j2
+  - stax2-api
   - testng
   - univocity-parsers
   - velocity
+  - woodstox-core
   - xmlunit
   - xmvn-generator
   - xz-java
 nb3:
   - maven
+  - maven4
 nb4:
   - xmvn
 a1:
