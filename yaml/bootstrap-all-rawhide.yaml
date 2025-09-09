@@ -22,6 +22,8 @@ platform:
     - lujavrite
     - rpm-devel
     - jurand
+    - annobin-plugin-gcc
+    - gcc-plugin-annobin
 macros:
   vendor: MBI
   _buildhost: mbs.kjnet.xyz
