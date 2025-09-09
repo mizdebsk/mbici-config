@@ -24,6 +24,26 @@ platform:
     - jurand
     - annobin-plugin-gcc
     - gcc-plugin-annobin
+test-platform:
+  Everything: https://ftp.icm.edu.pl/pub/Linux/dist/fedora/linux/development/rawhide/Everything/x86_64/os/
+  packages:
+    - glibc-minimal-langpack
+    - openssh-server
+    - socat
+    - rsync
+    - dnf
+    - python3-libdnf5
+    - beakerlib
+    - util-linux-core
+    - publicsuffix-list
+    - java-25-openjdk-devel
+    - redhat-rpm-config
+    - rpm-build
+    - java-srpm-macros
+    - systemd-rpm-macros
+    - lujavrite
+    - procps-ng
+    - strace
 macros:
   vendor: MBI
   _buildhost: mbs.kjnet.xyz
