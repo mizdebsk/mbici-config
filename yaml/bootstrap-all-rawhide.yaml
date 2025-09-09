@@ -24,6 +24,10 @@ platform:
     - jurand
     - annobin-plugin-gcc
     - gcc-plugin-annobin
+    - pyproject-rpm-macros
+    - python-rpm-macros
+    - python3-rpm-generators
+    - python3-rpm-macros
 test-platform:
   Everything: https://ftp.icm.edu.pl/pub/Linux/dist/fedora/linux/development/rawhide/Everything/x86_64/os/
   packages:
