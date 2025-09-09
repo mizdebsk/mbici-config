@@ -7,7 +7,7 @@ platform:
     - gcc
     - gcc-c++
     - make
-    - java-21-openjdk-devel
+    - java-25-openjdk-devel
     - bash
     - coreutils
     - findutils
