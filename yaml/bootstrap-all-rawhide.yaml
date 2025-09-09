@@ -38,6 +38,9 @@ b2:
   - javapackages-bootstrap
   - javapackages-tools
 b3:
+  - dola
+  - dola-gleaner
+  - dola-transformer
   - ant
   - aopalliance
   - apache-commons-beanutils
@@ -172,7 +175,11 @@ b3:
   - xz-java
 b4:
   - xmvn
+  - xmvn5
 nb2:
+  - dola
+  - dola-gleaner
+  - dola-transformer
   - aopalliance
   - apache-commons-beanutils
   - apache-commons-cli
@@ -306,6 +313,7 @@ nb3:
   - maven4
 nb4:
   - xmvn
+  - xmvn5
 a1:
   - antlr
   - apache-commons-net
